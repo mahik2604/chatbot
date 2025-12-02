@@ -1,0 +1,38 @@
+﻿streamlit
+python-dotenv
+
+# Langchain ecosystem
+langchain
+langchain-core
+# langchain-openai
+langchain-huggingface
+langchain-text-splitters
+# langchain-redis
+langsmith
+langchain_google_genai
+langchain-community
+
+# LangGraph ecosystem
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+langgraph-prebuilt
+langgraph-sdk
+
+# Other required libs
+ddgs
+# openai
+tiktoken
+numpy
+pandas
+altair
+pydeck
+SQLAlchemy
+sqlite-vec
+aiosqlite
+pydantic
+pydantic-core
+requests
+orjson
+tenacity
+watchdog
