@@ -22,6 +22,7 @@ langgraph-sdk
 # Other required libs
 ddgs
 pypdf
+chromadb
 # openai
 tiktoken
 numpy
